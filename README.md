@@ -6,17 +6,19 @@ wrapped as an NPM module.
 
 ## Usage 
 
-Add the following dependency to your package.json: 
+To use this module:
 
-    "dependencies": {
-       "tableau-api": "git://github.com/cmtoomey/tableau-api"
-    }
-
+   npm install --save tableau-api
 
 Then, require it in your code:
 
     var tableau = require('tableau-api');
-    
+
+Or import it directly:
+   
+   import Tableau from "tableau-api";
+
+This will provide you with the most up-to-date functionality in the API. 
     
 Refer to [the API documentation](http://onlinehelp.tableau.com/current/api/js_api/en-us/help.htm)
 for the details on how to use it.
