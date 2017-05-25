@@ -9,7 +9,7 @@ wrapped as an NPM module.
 Add the following dependency to your package.json: 
 
     "dependencies": {
-       "tableau-api": "git://github.com/ilyabo/tableau-api"
+       "tableau-api": "git://github.com/cmtoomey/tableau-api"
     }
 
 
