@@ -8,7 +8,7 @@ wrapped as an NPM module.
 
 To use this module:
 
-   npm install --save tableau-api
+    npm install --save tableau-api
 
 Then, require it in your code:
 
@@ -16,7 +16,7 @@ Then, require it in your code:
 
 Or import it directly:
    
-   import Tableau from "tableau-api";
+    import Tableau from "tableau-api";
 
 This will provide you with the most up-to-date functionality in the API. 
     
