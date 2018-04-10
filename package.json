@@ -1,10 +1,10 @@
 {
   "name": "tableau-api",
-  "version": "2.1.2",
+  "version": "2.2.1",
   "description": "Tableau JavaScript API wrapped as an NPM module.",
   "repository": {
     "type": "git",
     "url": "https://github.com/cmtoomey/tableau-api.git"
   },
-  "main": "tableau-2.1.2.js"
+  "main": "index.js"
 }
